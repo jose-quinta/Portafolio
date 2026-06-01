@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+    <defs>
+        <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#512BD4"/>
+            <stop offset="100%" stop-color="#2d1b6e"/>
+        </linearGradient>
+    </defs>
+    <rect width="640" height="360" fill="url(#g4)"/>
+    <rect x="180" y="100" width="280" height="160" rx="10" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+    <rect x="200" y="120" width="80" height="10" rx="4" fill="rgba(255,255,255,0.3)"/>
+    <rect x="200" y="142" width="120" height="8" rx="4" fill="rgba(255,255,255,0.15)"/>
+    <rect x="200" y="162" width="100" height="8" rx="4" fill="rgba(255,255,255,0.15)"/>
+    <rect x="200" y="182" width="140" height="8" rx="4" fill="rgba(255,255,255,0.15)"/>
+    <rect x="200" y="210" width="40" height="30" rx="4" fill="rgba(255,255,255,0.2)"/>
+    <text x="320" y="290" font-family="system-ui" font-size="14" fill="white" text-anchor="middle" opacity="0.6">Aplicación Web .NET Core</text>
+</svg>

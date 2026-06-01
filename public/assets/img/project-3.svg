@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+    <defs>
+        <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#512BD4"/>
+            <stop offset="100%" stop-color="#3b1f9e"/>
+        </linearGradient>
+    </defs>
+    <rect width="640" height="360" fill="url(#g3)"/>
+    <!-- API icon -->
+    <rect x="220" y="110" width="200" height="60" rx="8" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+    <text x="320" y="148" font-family="monospace" font-size="18" font-weight="700" fill="white" text-anchor="middle">API</text>
+    <text x="320" y="220" font-family="system-ui" font-size="13" fill="white" text-anchor="middle" opacity="0.6">.NET Core + EF Core</text>
+    <line x1="270" y1="170" x2="270" y2="200" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+    <line x1="370" y1="170" x2="370" y2="200" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+    <rect x="240" y="200" width="60" height="30" rx="4" fill="rgba(255,255,255,0.1)"/>
+    <rect x="340" y="200" width="60" height="30" rx="4" fill="rgba(255,255,255,0.1)"/>
+</svg>

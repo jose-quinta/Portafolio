@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+    <defs>
+        <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#e34c26"/>
+            <stop offset="100%" stop-color="#f06529"/>
+        </linearGradient>
+    </defs>
+    <rect width="640" height="360" fill="url(#g1)"/>
+    <text x="320" y="180" font-family="monospace" font-size="48" font-weight="700" fill="white" text-anchor="middle" opacity="0.9">&lt;/&gt;</text>
+    <text x="320" y="220" font-family="system-ui" font-size="14" fill="white" text-anchor="middle" opacity="0.6">Calculadora</text>
+    <rect x="220" y="240" width="200" height="4" rx="2" fill="white" opacity="0.3"/>
+</svg>
